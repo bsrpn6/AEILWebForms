@@ -3,25 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AEILWebForms", "..\..\..\..\..\..\WebSites\AEILWebForms\", "{0E70CC4D-5937-43DA-99C4-99B14A903245}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AEILWebForms", "..\..\WebSites\AEILWebForms\", "{0E70CC4D-5937-43DA-99C4-99B14A903245}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_56532"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\WebSites\AEILWebForms\"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\AEILWebForms\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56532\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_56532"
-		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\WebSites\AEILWebForms\"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\AEILWebForms\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56532\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "56532"
-		SlnRelativePath = "..\..\..\..\..\..\WebSites\AEILWebForms\"
+		SlnRelativePath = "..\..\WebSites\AEILWebForms\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
